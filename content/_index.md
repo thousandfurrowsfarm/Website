@@ -1,10 +1,10 @@
 ---
-title: "Blogophonic"
-subtitle: "A Hugo Theme by Formspree"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
+title: "Thousand Furrows Farm"
+subtitle: "A small, diversified veggie farm in Warren Oregon"
+description: "In 2023, the farm moved from Troutdale to it's long-term home in Warren Oregon. As a result of this move, the farm is transitioning to low- and no-till farming methods. I am excited to see how this change benefits crop quality, weed control, labor management and water retention. \n The farm markets its veggies through the St. Johns Farmers Market, the Clatskanie Food Hub and custom orders for on-farm pickup. If you are interested in purchasing veggies, send me an email!"
 date: 2019-02-18T12:27:33-06:00
 images:
-  - img/unicorn-megaphone.png
+  - img/ben in front of gh.jpeg
 show_action_link: true
 action_link: /about
 action_label: "Read More &rarr;"

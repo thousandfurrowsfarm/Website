@@ -48,12 +48,12 @@ preserveTaxonomyNames = true
 
 [social]
   # social accounts (username only)
-  facebook = "formspree"
+  facebook = ""
   facebook_admin = "" # Facebook Page Admin ID for Domain Insights
-  instagram = ""
+  instagram = "thousand_furrows_farm"
   youtube = ""
-  twitter = "formspree"
-  github = "formspree"
+  twitter = ""
+  github = ""
   medium = ""
 
 [taxonomies]
