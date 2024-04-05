@@ -5,7 +5,7 @@ date: 2019-03-01
 author: "Ben Morelli"
 draft: false
 images:
-  - /blog/assets/tachyons-thumbnail.png
+  - /blog/assets/me_coveralls_farm_practice_thumb.jpeg
   - /blog/assets/tachyons-logo-script-feature.png
 series:
   - Getting Started

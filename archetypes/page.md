@@ -1,6 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 description:
+description2:
 date: {{ .Date }}
 draft: false
 # layout options are standard (default) or wide-body

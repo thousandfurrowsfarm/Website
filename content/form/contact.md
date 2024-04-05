@@ -1,7 +1,12 @@
 ---
 title: Contact Ben
 name: Contact Us Form
-description: "Send me an email using the form, email me directly at ben@thousandfurrowsfarm.com, or check out the farms instagram."
+description: "Send me an email using the form, email me directly at ben@thousandfurrowsfarm.com, or check out the farms instagram. 
+\n
+Farm Address: 34249 Slavens Rd.
+Warren, OR 97053
+
+"
 date: 2019-02-25T13:38:41-06:00
 draft: false
 url: contact

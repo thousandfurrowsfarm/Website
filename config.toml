@@ -20,7 +20,7 @@ preserveTaxonomyNames = true
   orgName = "Formspree"
   orgLocal = "Brooklyn, NY"
   favicon = "/img/favicon.ico?v=0"
-  logo = "/img/blogophonic-mark-dark.png"
+  logo = "/img/gBandWlogl.png"
   # font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
@@ -29,7 +29,7 @@ preserveTaxonomyNames = true
   # "Color Palette" section of http://tachyons.io/docs/themes/skins/
   siteBgColor = "near-white"
   sidebarBgColor = "light-gray"
-  headlineColor = "dark-pink"
+  headlineColor = "light-red" 
   headingColor = "near-black"
   textColor = "dark-gray"
   sidebarTextColor = "mid-gray"
