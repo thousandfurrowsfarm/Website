@@ -14,6 +14,15 @@ categories:
 layout: single
 ---
 
+
+---
+### 1/4/25
+Well, I didn't do a very good job with farm updates this year. I got a new computer at the start of the busy season and moving my website files over to the new machine proved enough of a barrier to prevent me from posting. 
+
+It ended up being a great season. So far I have managed to grow and sell more food, improve the profitability of the business and maintain a consistent level of effort each year.  Which means that I get more food and $$$ in roughly the same amount of time. When all was said and done for the season I made roughly $17 per hour for my time (just shy of 1600 hours). And I managed to make a few long lasting investments in the farm as well including a used two door commercial refrigerator, a very nice - stainless steel - industrial salad spinner (for drying my washed greens), and a used - mini - electric flatbed truck for hauling stuff around the property. The truck in particular is going to save me a lot of labor. But don't worry there will still be many wearisome tasks to keep me occupied. 
+
+Since starting the farm, my initial compensation goal has been to net $20 per hour. At the beginning of this last season, I still considered this goal something of a pipe dream. I have consistently lacked the vision to anticipate how I am going to grow the business without spending more time in the field or washing area, and yet consistently I have done so. They say that you are still a beginning farmer until you reach year 10. At the end of this season, I reach the conclusion of my fifth growing season. Which sounds like a major milestone to me. Even counting my years working on others farms, I still have 3 years to go as a beginning farmer. And with the wisdom I have attained at this stage, that sounds about right to me. It is exciting to think of the refinements that will come in the next five. 
+
 ---
 ### 4/5/24
 Early April, about six weeks to market and there are plenty of plants in the ground. They always look really small at this stage and it is hard to imagine them sizing up for May 12th, but days are getting longer, plant growth accelerates, and somehow they do. The propragation house is full of plants and transplant season is about to start in earnest. Hopefully this weekend I put plastic up on the second greenhouse and then my first tomatoes of the season go in the ground. I do 3-4 monthly successions of Siletz - a very tasty, reliable, determinate red slicer - in a year. And I don't treliss or prune them at all.
