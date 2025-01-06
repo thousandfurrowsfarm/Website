@@ -5,6 +5,10 @@ header:
   - name: Blog
     title: Blog
     url: /blog/
+  - name: Markets
+    title: Markets
+    url: /about/
+
   - name: Contact
     title: Contact Form
     url: /contact/
