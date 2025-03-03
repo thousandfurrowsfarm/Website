@@ -1,19 +1,30 @@
 ---
-title: "2024 Farm Log"
+title: "2025 Farm Log"
 excerpt: "Updates on life and the season." 
-date: 2024-04-05
+date: 2025-03-02
 author: "Ben Morelli"
 draft: false
 images:
 - /blog/assets/collards_hand_for_farm_log_2024.jpeg
 series:
-  - 2024
+  - 2025
 categories:
   - Blog
 # layout options: single or single-sidebar
 layout: single
 ---
 
+---
+### 3/2/25
+We are just coming out of a short stretch of nice weather (sunny and 60s) that puts one in the mind for spring. December and January are the months that I take most off. Although now that I live on the farm I maintain a little more continuity with small amounts of harvesting and other work in the winter. This does ease the transition to working in the spring. One of the nice things about my farming season is that it really ramps up slowly.
+
+ In January this year I mostly harvested for the Clatskanie food hub and did my crop planning. Amazingly, the bulk of my crop planning was done in 8 hours. I pretty much know what I am going to plant at this point so crop planning amounts to making minor tweaks and deciding where everything is going to go. I spend additional time ordering my seed. My biggest growing goal for the season is to have plentiful carrots for as much of the season as possible. I am also going to grow more cherry tomatoes this year, as there are other farmers that do slicers better than myself. I am adding new varieties of cucumber and peppers as well. Last year my bell peppers were a little disappointing and everyone has them so I don't sell a ton. I am going to focus on special varieties like stocky roasters, jimmy nardellos and some mini-bells that I am going to try. 
+
+February consisted of seeding, bed cleanup and prep and a bit of field planting. My harvesting for the food hub was pretty low in February as I have sold through almost everything that I had available! There is very little going to waste in the winter garden this year. I did overplant hakuri turnips, but just today I noticed that they are sending out raab. And I will sell as much of that as I can. I eat a TON of it too. Raab is one of my garden favorites for sure. Seeding, for transplants, feels well underway at this point. Broccoli, cabbage, spring chicories and my earliest seeding of tomatoes went in on Feb 9th. All of my onions, tomatoes and peppers are seeded too. Next week eggplant gets started. This year I added an all purpose organic fertilizer mix to my potting soil (in addition to my usual worm castings) and the improved nutrition seems evident. Looking forward to seeing how that affects my tomato and pepper starts. 
+
+In march, field planting will ramp up. 
+
+{{< figure src="/blog/assets/3.2.25 farm.jpeg" alt="Electric flatbed truck." caption="March 2nd Sunset on the Farm." >}}
 
 ---
 ### 1/4/25
