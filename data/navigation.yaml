@@ -8,6 +8,9 @@ header:
   - name: Markets
     title: Markets
     url: /about/
+  - name: Gallery
+    title: Gallery
+    url: /gallery/
 
   - name: Contact
     title: Contact Form
