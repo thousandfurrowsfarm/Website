@@ -1,5 +1,5 @@
 ---
-title: "2025 Farm Log"
+title: "Farm Log"
 excerpt: "Updates on life and the season." 
 date: 2025-03-02
 author: "Ben Morelli"
@@ -15,6 +15,16 @@ layout: single
 ---
 
 ---
+### 2/6/26
+It has been a very mild winter in Oregon. No significant storms with ice or snow down in the valley. The mountains barely have snow. We have had some nights in the 20’s but none of my crops, lettuce included, have been negatively affected. The lettuce is in a caterpillar tunnel and a mini tunnel, but I leave both open, so I am not really sure how much protection they provide. Not much I would think. We have had a few good rainy stretches, but a lot of nice sunny weather too. I really love those sunny winter days. It is such a pleasure to get outside for a few hours and do some clean-up in beautiful weather. Yesterday was such a day. 
+
+I spent some time raking up wood chips that I spread over two of my planting blocks. This was a largely failed experiment that took a long time to set up, and more time to clean up. Luckily, I am very near the end of that clean-up task and will be happy to have it in my rear view. Conclusion - I am not interested in having wood chips in the growing area. I will use them as borders around the edge of my field block, but that is all. Growing into compost has proved more a success, and I am looking forward to experimenting with living mulches this season. 
+
+I also planted the shoulders of one of my future tomato beds with radish and hakurei turnip. These are very early plantings for me. Part of my effort to maximize Hub sales. Increasing sales in winter and spring at the Hub seems like one of my lowest effort ways to increase overall sales. I planted a bed of carrots and arugula in early January. The arugula is up and growing but the carrots have yet to germinate one month later. Not too surprising, but I hope to see them soon. 
+
+Going into the season I am excited to try a few new cover crop mixes. The one I am most excited about I am dubbing my lazy pasture mix. It includes alfalfa, medium red clover, forage chicory and perennial ryegrass. I should only need to plant this once in a 1.5-2.5 year cover cropping window as all the species are perennial. This will be a lot less management than typical summer and overwintering cover crop mixes that will require replanting twice a season. I am also doing a spring cover crop for some of my later veggie beds that will include phaecelia and crimson clover. Will there be enough time? 
+
+
 ### 5/17/25
 It is evening after my second market of the season. Lots of greens, beets, turnips, radish and even the first of the carrots. I had both beets and carrots a week or two earlier than last year, but not quite as many as I would like. One of the fun things about the farm is that there is always room for improvement. I really enjoyed harvest and market this week. It is nice to take note of good moods, since they aren't always the norm. I find that harvest days are really when you realize how well you did (relative to the same week last year). Did you have all the crops you wanted in the quantities that you need? Did you overproduce something? These are the moments that inform future seasons. The greens are all in pristine condition right now. And my first planting of radishes did really well. It is very satisfying to have just the right amount. In years past I have trialed more varieties, and many of them didn't work out. I find that many radishes varieties are inconsistent with a lot of weird shapes. These tend to be unmarketable, slow down my harvest and generally end up feeling like a waste. This year, I picked the one variety that has worked really well for me, and the results have been great. This season I also aimed to have earlier broccoli to beef up the early season market stand. I had a good quantity this week, but probably didn't plant enough to keep it available consistently. In future years, I think broccolli will become more of an early season market staple. Finally, in the green house the first of the zuchinni is coming on. The plants look great, but the fruit is maturing slowly in the cool weather. In the last few days the pace of growth has seemed to pick up as the nights stay warmer, maybe there will be enough to take to market soon. Even just for my own use, I am very happy to have zuchinni in May! Planting it so early seemed like a risk. 
 
